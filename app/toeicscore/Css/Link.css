@@ -1,0 +1,59 @@
+#leftSpace{
+	float:left;
+	width:0px;
+	/*
+	background-color:#CCFFFF;
+*/
+	}
+#rightSpace{
+	float:left;
+	width:0px;
+	/*
+	background-color:gray;
+*/
+}
+
+#tag{
+	float:left;
+	border: 1px solid lime;
+}
+
+#link{
+	float:left;
+	/*border: 1px solid #FFFF00;*/
+	width:600px;
+
+}
+
+#link table{
+	tablepx-layout:auto;
+	width:600px;
+}
+#link table caption{
+	text-align:left;
+	width:200px;
+	background-color:#00FFFF;
+}
+#link table th{
+	height:30px;
+	border: 1px #2b2b2b solid;
+	background-color:#CCFFFF;
+}
+
+
+#link td,tr{
+	width: 40%;
+	/*
+	text-align: left;
+	*/
+	border: 1px #2b2b2b solid;	
+}
+
+
+.headline{
+	text-decoration:underline;
+}
+
+#footer{
+	clear:left;
+}
