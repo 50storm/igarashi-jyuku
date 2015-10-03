@@ -148,7 +148,7 @@ $(function () {
 				&nbsp;　
 				</div>
 				<div class="col-sm-6 col-xs-12" style="/*background-color:green;*/">
-					<h1>We are TOEICers</h1>
+					<h1>TOEICスコア管理サイト</h1>
 				</div>
 				<div class="col-sm-3  hidden-xs"  style="/*background-color:orange;*/">
 				&nbsp;　
