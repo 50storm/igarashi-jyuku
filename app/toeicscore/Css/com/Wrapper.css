@@ -1,0 +1,19 @@
+body{
+font-family:arial black;
+/* font-family:arial; */
+/* font-family:Franklin Gothic MediumÅh; */
+/* font-family:Impact; */
+
+}
+
+#wrapper
+{
+	width: 1240px;  
+	
+	/*margin: 0 auto;*/
+	margin: 0 auto 0 auto;
+	/*text-align: left;  */
+	/*background-color:red;*/
+	/*border: 1px solid #FF0000;*/
+	
+}
