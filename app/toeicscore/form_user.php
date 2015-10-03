@@ -302,7 +302,7 @@ $(function () {
 <div id="wrapper">
 	<!--header-->
 	<header id="header">
-		<h1>We are TOEICers</h1>
+		<h1>TOEICスコア管理サイト</h1>
 	</header>
 	<?php 
 	//if($_SESSION['form_user_mode'] === "update"){

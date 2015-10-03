@@ -116,7 +116,7 @@ if( $debug === "on" ){var_dump($_SESSION);}
 <div id="wrapper">
 	<!--header-->
 	<header id="header">
-		<h1>We are TOEICers</h1>
+		<h1>TOEICスコア管理サイト</h1>
 	</header>
 	<!--Menu-->
 	<?php 

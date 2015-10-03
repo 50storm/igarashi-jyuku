@@ -124,7 +124,7 @@ try{
 
 	<header id="header">
 		<div style="">
-			<h1>We are TOEICers</h1>
+			<h1>TOEICスコア管理サイト</h1>
 		</div>
 	</header>
 	
